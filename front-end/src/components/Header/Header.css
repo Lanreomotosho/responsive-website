@@ -1,0 +1,23 @@
+header {
+    min-height: 100vh;
+    background: url("../../assets/backgroung.png");
+    background-size: cover;
+    background-position: center;
+}
+
+header .wrapper {
+    position: relative;  
+    height: 100;
+}
+
+header .cta {
+    width: 453px;
+    height: 326px;
+    flex-shrink: 0;
+    border-radius: 20px 20px 0px 0px;
+border-top: 4px solid #FFF;
+border-right: 4px solid #FFF;
+border-left: 4px solid #FFF;
+background: rgba(0, 0, 0, 0.50);
+backdrop-filter: blur(25px);
+}

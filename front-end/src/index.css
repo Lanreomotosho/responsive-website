@@ -12,5 +12,15 @@
 }
 
 body {
-    /* margin:  */
+    margin:  0;
+    font-family: "Inter", sans-serif;
+}
+
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
 }
