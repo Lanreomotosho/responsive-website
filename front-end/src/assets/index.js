@@ -16,6 +16,11 @@ import Twitterlogo from "./Twitter Logo.svg";
 import Vector from "./Vector.svg";
 import Videoicon from "./Video-Icon.svg";
 import Vox from "./vox.png";
+import Console from "./Console.png";
+import Mastering from "./Mastering.png";
+import Vocals from "./Vocals.png";
+import DAW from "./DAW.png";
+import Frequencies from "./Frequencies.png";
 
 
 export {
@@ -37,4 +42,10 @@ export {
     Vector,
     Videoicon,
     Vox,
+    Using,
+    Console,
+    Mastering,
+    Vocals,
+    DAW,
+    Frequencies,
 }
