@@ -3,7 +3,7 @@ import Daw from "./Daw.png";
 import Facebooklogo from "./Facebook Logo.svg";
 import Herimage from "./Hero-image.png";
 import Instagram from "./Instagram Logo.svg";
-import Menuicon from "./Menu Icon.svg";
+import Menuicon from "./Menu-icon.svg";
 import Mixing from "./Mixing.png";
 import Rectangle8 from "./Rectangle 8.png";
 import Rectangle16 from "./Rectangle16.svg";
